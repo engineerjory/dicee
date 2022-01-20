@@ -1,0 +1,6 @@
+package com.wuiltsite.hwb.dicee
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
